@@ -1,0 +1,11 @@
+body{
+    background-color: #80C4E9; /* Açık mavi */
+    background-size: cover;
+    background-position: center;
+    margin: 0; /* Tarayıcı varsayılan boşluklarını kaldırmak için */
+    font-family: Arial, sans-serif;
+}
+
+.Kart{
+    background-color: #FFF6E9;
+}
